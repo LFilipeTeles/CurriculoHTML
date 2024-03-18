@@ -2,7 +2,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=, initial-scale=1.0">
-    <title>Curriculo</title>
 </head>
 <body>
     <img src="https://media.licdn.com/dms/image/D4E03AQHRhYW4XVAq4Q/profile-displayphoto-shrink_200_200/0/1701737393359?e=2147483647&v=beta&t=YadDWDeYMxVyiZl1nA3XXSPY295Ww2f96xugnG95rD8" alt="">
